@@ -1,2 +1,4 @@
 # Linear-Regression
-This project uses Linear Regression for car price prediction, implementing advanced techniques such as K-Fold cross-validation, feature selection, and dot product operations. Through careful feature engineering and model evaluation, it delivers accurate selling price predictions for unseen car data.
+This project aims to predict the selling price of cars by employing feature selection techniques and dot product operations within a Linear Regression model. The dataset includes essential features such as "Car_Name," "Year," "Present_Price," "Kms_Driven," "Fuel_Type," "Seller_Type," "Transmission," and "Owner," among others. Through meticulous data cleaning and feature engineering, relevant information has been extracted, including applying dot product operations to create interaction features. These steps have been taken to ensure optimal model performance and enhance the prediction accuracy.
+The Linear Regression model has been carefully trained on a portion of the dataset using train-test splitting to avoid overfitting. Cross-validation techniques, such as k-fold validation, have been employed to assess the model's accuracy and robustness.
+
